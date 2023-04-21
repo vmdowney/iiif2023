@@ -18,7 +18,7 @@
       "@value" : "Normal Sequence",
       "@language" : "en"
     } ],
-    "viewingHint" : "individuals",
+    "viewingHint" : "paged",
     "canvases" : [ {
       "@id" : "http://32433405-d216-4bce-b58f-048352225805",
       "@type" : "sc:Canvas",
