@@ -1,0 +1,119 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://vmdowney.github.io/iiif2023/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Walter Crane's King Luckieboy's Party (1895)",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Leaf 7 of Walter Crane's King Luckieboy's Party (1895) and its original drawing",
+    "@language" : "en"
+  } ],
+  "license" : "https://nrs.harvard.edu/urn-3:HUL.eother:idscopyright",
+  "attribution" : "Provided by Houghton Library, Harvard University.",
+  "logo" : "https://iiif.lib.harvard.edu/static/manifests/harvard_logo.jpg",
+  "sequences" : [ {
+    "@id" : "http://d269b216-bd0b-4de6-a4a4-109d1ec9ba6a",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "individuals",
+    "canvases" : [ {
+      "@id" : "http://32433405-d216-4bce-b58f-048352225805",
+      "@type" : "sc:Canvas",
+      "label" : "Typ 8304.70.40",
+      "height" : 4580,
+      "width" : 3517,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0003b15a-7f2f-4861-ab7d-ac062b3df9bc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.lib.harvard.edu/ids/iiif/443263509/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.lib.harvard.edu/ids/iiif/443263509",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 4580,
+          "width" : 3517
+        },
+        "on" : "http://32433405-d216-4bce-b58f-048352225805"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Description",
+        "value" : "King Luckieboy's party (Leaf 7)"
+      }, {
+        "label" : "Author",
+        "value" : [ "Walter Crane", "Edmund Evans" ]
+      }, {
+        "label" : "Published",
+        "value" : "London : George Routledge & Sons, [1870]"
+      }, {
+        "label" : "Call Number",
+        "value" : "Typ 8304.70.40"
+      }, {
+        "label" : "Catalog Link",
+        "value" : "http://id.lib.harvard.edu/alma/990050822560203941/catalog"
+      } ]
+    }, {
+      "@id" : "http://516ec1e5-f97d-45bc-874b-f9cbe4098b33",
+      "@type" : "sc:Canvas",
+      "label" : "Typ 8303.95.8",
+      "height" : 3788,
+      "width" : 3064,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d1a57c97-bf53-4ada-a3bf-8c9fbd514662",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ids.lib.harvard.edu/ids/iiif/443263505/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.lib.harvard.edu/ids/iiif/443263505",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3788,
+          "width" : 3064
+        },
+        "on" : "http://516ec1e5-f97d-45bc-874b-f9cbe4098b33"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Description",
+        "value" : "King Luckieboy's party (Drawing 7)"
+      }, {
+        "label" : "Artist",
+        "value" : "Walter Crane"
+      }, {
+        "label" : "Created",
+        "value" : "1895"
+      }, {
+        "label" : "Call Number",
+        "value" : "Typ 8304.70.40"
+      }, {
+        "label" : "Catalog Link",
+        "value" : "<span><a ref='https://id.lib.harvard.edu/alma/990144682310203941/catalog'>https://id.lib.harvard.edu/alma/990144682310203941/catalog</a></span>"
+      } ]
+    } ]
+  } ],
+  "structures" : [ {
+    "viewingHint" : "top"
+  } ]
+}
