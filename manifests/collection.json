@@ -1,0 +1,13 @@
+{
+  "id" : "https://vmdowney.github.io/iiif2023/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in vmdowney/iiif2023 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://vmdowney.github.io/iiif2023/manifests/manifest.json",
+    "label" : "Walter Crane's King Luckieboy's Party (1895)"
+  } ]
+}
