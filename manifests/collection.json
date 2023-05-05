@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://vmdowney.github.io/iiif2023/manifests/manifest.json",
     "label" : "Walter Crane's King Luckieboy's Party (1895)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://vmdowney.github.io/iiif2023/manifests/manifest2.json",
+    "label" : "Textile Stencil (katagami) with Chrysanthemum Design"
   } ]
 }
