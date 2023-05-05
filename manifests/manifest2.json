@@ -1,0 +1,149 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://vmdowney.github.io/iiif2023/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "attribution" : "Harvard Art Museums",
+  "description" : "Katagami--literally \"pattern papers\"--are Japanese cut-paper stencils through which a paste resist is applied to cloth in the first step of the katazome (\"pattern-dying\") process. Later, the cloth is dyed and the paste resist removed, leaving a complex, two-color pattern. The technique had its origins in eighth-century China, but was refined in Japan during the sixteenth century in order to produce the fine dot patterns seen on formal garments of members of the warrior class. During the Edo period (1615-1868), the reorganization of society by the Tokugawa shogunate encouraged further textile development, trade, and conspicuous consumption, spurring creativity and production. \r\n\r\nThe stencils are made by laminating two to four sheets of mulberry bark paper with tannin-rich persimmon juice and then cutting out the design elements using a variety of hand-made punches and/or knives. In order to reinforce particularly delicate designs (and allow blank spaces between certain elements), it is sometimes necessary to sandwich a web of fine silk threads between the layers of paper. These threads are so slender that they leave no trace on the finished textile. Katagami stencils are designed in such a way that they produce repetitive patterns--the top of each stencil matches up with the bottom--so that entire stencil-width bolts of cloth can be dyed using a single (or sometimes a pair of) reusable sheets. Avidly collected by late nineteenth- and early twentieth-century Western visitors to Japan, these paper stencils show both the ingenuity of the anonymous artisans who produced them and the variety of designs used to decorate traditional Japanese dyed textiles.\r\n\r\nThis stencil is chūban (medium-sized) minogami (mulberry bark paper) treated with persimmon juice and cut using the \"tsukibori\" (thrust-carving) technique, with \"ito-ire\" (silk-web) reinforcement\r\n",
+  "label" : "Textile Stencil (katagami) with Chrysanthemum Design",
+  "logo" : {
+    "@id" : "https://ids.lib.harvard.edu/ids/iiif/437958013/full/!800,800/0/default.jpg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://ids.lib.harvard.edu/ids/iiif/437958013",
+      "profile" : "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "metadata" : [ {
+    "label" : "Date",
+    "value" : "Late Edo-Meiji period, 19th-early 20th century"
+  }, {
+    "label" : "Classification",
+    "value" : "Artists' Tools"
+  }, {
+    "label" : "Credit Line",
+    "value" : "Harvard Art Museums/Arthur M. Sackler Museum, Gift of Dr. Denman W. Ross"
+  }, {
+    "label" : "Object Number",
+    "value" : "1919.483"
+  }, {
+    "label" : "Medium",
+    "value" : "Paper with silk-web reinforcement\r\n"
+  }, {
+    "label" : "Dimensions",
+    "value" : "paper: H. 32.1 x W. 43.6 cm (12 5/8 x 17 3/16 in.)\r\npattern unit: H. 19.7 x W. 35.8 cm (7 3/4 x 14 1/8 in.)"
+  } ],
+  "rendering" : {
+    "@id" : "https://www.harvardartmuseums.org/collections/object/209625",
+    "format" : "text/html",
+    "label" : "Full record view"
+  },
+  "sequences" : [ {
+    "@id" : "https://iiif.harvardartmuseums.org/manifests/object/209625/sequence/normal",
+    "@type" : "sc:Sequence",
+    "canvases" : [ {
+      "@id" : "https://iiif.lib.harvard.edu/manifests/ids:18783689/canvas/canvas-18783689.json",
+      "@type" : "sc:Canvas",
+      "height" : 1024,
+      "images" : [ {
+        "@id" : "https://iiif.lib.harvard.edu/manifests/ids:18783689/annotation/anno-18783689.json",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.lib.harvard.edu/manifests/ids:18783689/canvas/canvas-18783689.json",
+        "resource" : {
+          "@id" : "https://ids.lib.harvard.edu/ids/iiif/18783689/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 1024,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.lib.harvard.edu/ids/iiif/18783689",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 680
+        }
+      } ],
+      "label" : " ",
+      "thumbnail" : {
+        "@id" : "https://ids.lib.harvard.edu/ids/iiif/18783689/full/,150/0/default.jpg",
+        "@type" : "dctypes:Image"
+      },
+      "width" : 680,
+      "related" : {
+        "@id" : "https://iiif.lib.harvard.edu/manifests/ids:18783689",
+        "label" : " ",
+        "format" : ""
+      }
+    }, {
+      "@id" : "https://iiif.harvardartmuseums.org/manifests/object/209625/canvas/canvas-18721550",
+      "@type" : "sc:Canvas",
+      "height" : 566,
+      "images" : [ {
+        "@id" : "https://iiif.harvardartmuseums.org/manifests/object/209625/annotation/anno-18721550",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.harvardartmuseums.org/manifests/object/209625/canvas/canvas-18721550",
+        "resource" : {
+          "@id" : "https://ids.lib.harvard.edu/ids/iiif/18721550/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 566,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.lib.harvard.edu/ids/iiif/18721550",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 1024
+        }
+      } ],
+      "label" : "1",
+      "otherContent" : [ {
+        "@id" : "https://iiif.harvardartmuseums.org/manifests/object/209625/list/18721550",
+        "@type" : "sc:AnnotationList"
+      } ],
+      "width" : 1024
+    }, {
+      "@id" : "https://iiif.harvardartmuseums.org/manifests/object/204341/canvas/canvas-18721551",
+      "@type" : "sc:Canvas",
+      "height" : 546,
+      "images" : [ {
+        "@id" : "https://iiif.harvardartmuseums.org/manifests/object/204341/annotation/anno-18721551",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://iiif.harvardartmuseums.org/manifests/object/204341/canvas/canvas-18721551",
+        "resource" : {
+          "@id" : "https://ids.lib.harvard.edu/ids/iiif/18721551/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "height" : 546,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ids.lib.harvard.edu/ids/iiif/18721551",
+            "profile" : "http://iiif.io/api/image/2/level2.json"
+          },
+          "width" : 1024
+        }
+      } ],
+      "label" : "1",
+      "otherContent" : [ {
+        "@id" : "https://iiif.harvardartmuseums.org/manifests/object/204341/list/18721551",
+        "@type" : "sc:AnnotationList"
+      } ],
+      "width" : 1024,
+      "related" : {
+        "@id" : "https://iiif.harvardartmuseums.org/manifests/object/204341",
+        "label" : "Katagami Textile Stencil with Fawn Spot (Kanoko) and Bush Clover Design",
+        "format" : ""
+      }
+    } ],
+    "viewingHint" : "individuals"
+  } ],
+  "thumbnail" : {
+    "@id" : "https://ids.lib.harvard.edu/ids/iiif/18721550/full/!170,170/0/default.jpg",
+    "service" : {
+      "@context" : "http://iiif.io/api/image/2/context.json",
+      "@id" : "https://ids.lib.harvard.edu/ids/iiif/18721550",
+      "profile" : "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "within" : "https://www.harvardartmuseums.org/collections"
+}
