@@ -19,5 +19,9 @@
       "en" : [ "Simple Manifest - Book" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Collection",
+    "@id" : "https://vmdowney.github.io/iiif2023/manifests/contentdm_manifest.json",
+    "label" : "Denver Public Library PhotosWest"
   } ]
 }
