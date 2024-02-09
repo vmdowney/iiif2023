@@ -1,0 +1,436 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://vmdowney.github.io/iiif2023/manifests/contentdm_manifest.json",
+  "@type" : "sc:Collection",
+  "label" : "Denver Public Library PhotosWest",
+  "manifests" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:314/manifest.json",
+    "label" : "Drilling F Company, 86th Regiment"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:315/manifest.json",
+    "label" : "Kiska patrol, looking north from near Cape St. Stephen"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:316/manifest.json",
+    "label" : "Mule trenches, Camp Hale"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:317/manifest.json",
+    "label" : "Rock climbing, Camp Hale"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:318/manifest.json",
+    "label" : "Spear fishing, Kiska"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:319/manifest.json",
+    "label" : "Adak camp, looking over the harbor"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:320/manifest.json",
+    "label" : "Po Bridge"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:321/manifest.json",
+    "label" : "Train pulling on Tennessee Pass above the Pando Valley"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:322/manifest.json",
+    "label" : "F Company on Riva Ridge"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:323/manifest.json",
+    "label" : "Prager skiing in Grossglockner slalom"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:324/manifest.json",
+    "label" : "Soldier and mountain"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:325/manifest.json",
+    "label" : "AT&SF locomotive, engine number 1320, engine type 4-6-2"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:326/manifest.json",
+    "label" : "AT&SF train, engine number 956, engine type 2-10-2"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:327/manifest.json",
+    "label" : "Inoculation, Camp Swift"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:328/manifest.json",
+    "label" : "Colorado & Southern train, engine number 638, engine type 2-8-0"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:329/manifest.json",
+    "label" : "UP locomotive, engine number 820, engine type 4-8-4"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:330/manifest.json",
+    "label" : "MP train, engine number 564 + additional diesel unit, engine type EMD F3"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:331/manifest.json",
+    "label" : "MP train, engine number 7508, engine type 4-6-0"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:332/manifest.json",
+    "label" : "SR train, engine number 1383, engine type 4-6-2"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:333/manifest.json",
+    "label" : "SP train, engine number 4422, engine type 4-8-4"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:334/manifest.json",
+    "label" : "SR train, engine number 4522, engine type 2-8-2"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:335/manifest.json",
+    "label" : "SR train, engine number 6466, engine type 4-6-2"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:336/manifest.json",
+    "label" : "SR train, engine number 6480, engine type 4-6-2"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:337/manifest.json",
+    "label" : "Swayne Lumber Co. narrow gauge locomotive, engine number 5, engine type HEISLER"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:338/manifest.json",
+    "label" : "Swayne Lumber Co. narrow gauge locomotive, engine number 6, engine type SHAY"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:339/manifest.json",
+    "label" : "T&P locomotive, engine number 800, engine type 2-8-2"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:340/manifest.json",
+    "label" : "T&P locomotive, engine number 903, engine type 4-8-2"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:341/manifest.json",
+    "label" : "Tacoma Municipal locomotive, engine number 1626, engine type B-B ELECTRIC"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:342/manifest.json",
+    "label" : "SP car"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:343/manifest.json",
+    "label" : "UP locomotive, engine number 814, engine type 4-8-4"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:344/manifest.json",
+    "label" : "ACL train, engine number 1542, engine type 4-6-2"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:345/manifest.json",
+    "label" : "Road crew, Costilla County"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:346/manifest.json",
+    "label" : "Sociedad Protección Mutua de Trabajadores Unidos"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:347/manifest.json",
+    "label" : "María Virginia Juana Montoya and María Encarnación Quintana"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:348/manifest.json",
+    "label" : "María Isabel Manzanares and José Estevan Vigil"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:349/manifest.json",
+    "label" : "UP train, engine number 802, engine type 4-8-4"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:350/manifest.json",
+    "label" : "José Julián Lobato and touring car"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:351/manifest.json",
+    "label" : "Córdova sisters"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:352/manifest.json",
+    "label" : "María Salomé Córdova spinning wool"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:353/manifest.json",
+    "label" : "Crow Eagle"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:354/manifest.json",
+    "label" : "Mad Girl"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:355/manifest.json",
+    "label" : "Unidentified Indian, seated, holding tomahawk, full length"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:356/manifest.json",
+    "label" : "D. F. Barry"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:357/manifest.json",
+    "label" : "David F. Barry, seated, dog on table (older), 3/4 length"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:358/manifest.json",
+    "label" : "Wolf Chief & Harry Eaton, Dakota, holding peace pipe, full length"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:359/manifest.json",
+    "label" : "Indian burial, poses of Indian woman, wearing bracelets, full length"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:360/manifest.json",
+    "label" : "Beef distribution, Dakota, groups of people standing in and around a wooden fence, church and houses in background"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:361/manifest.json",
+    "label" : "Old Crow, Crow Chief"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:362/manifest.json",
+    "label" : "Sitting Bull, Dakota Chief, wearing war bonnet, profile view"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:363/manifest.json",
+    "label" : "Two unidentified Indian women, seated, one holding fan"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:364/manifest.json",
+    "label" : "Sunshine, Crow, as child, full length"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:365/manifest.json",
+    "label" : "Wagon"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:366/manifest.json",
+    "label" : "Yellow Bird"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:367/manifest.json",
+    "label" : "Annie Oakley, holding rifle in both hands, full length"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:368/manifest.json",
+    "label" : "Two unidentified Indians, one seated, one kneeling, full length"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:369/manifest.json",
+    "label" : "Elizabeth B. Custer (Mrs. George A.), bust"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:370/manifest.json",
+    "label" : "Gen. George Crook, seated, in group of unidentified white people, full length"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:371/manifest.json",
+    "label" : "Gros Ventre Group Picture - Black Owl seated (on left), Mary standing, unidentified Indian seated, full length"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:372/manifest.json",
+    "label" : "Hairy Chin, Dakota, wearing an Uncle Sam outfit, full length"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:373/manifest.json",
+    "label" : "Rain-in-the-Face and his squaw, similar view"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:374/manifest.json",
+    "label" : "Rain-in-the-Face, Dakota Chief, seated on horseback, full length"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:375/manifest.json",
+    "label" : "Colorado State Capitol Bldg."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:376/manifest.json",
+    "label" : "Garden of the Gods and Pike's Peak"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:377/manifest.json",
+    "label" : "Gall, Dakota Chief, standing, holding bow, full length"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:378/manifest.json",
+    "label" : "A Miner's home"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:379/manifest.json",
+    "label" : "Seven Falls, Cheyenne Cañon"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:380/manifest.json",
+    "label" : "Siamese Twins, Garden of the Gods"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:381/manifest.json",
+    "label" : "Soda Spring and Cliff House, Manitou, Colorado"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:382/manifest.json",
+    "label" : "Miners at work"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:383/manifest.json",
+    "label" : "City Park Pavilion from the south, Denver"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:384/manifest.json",
+    "label" : "Miners at home"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:385/manifest.json",
+    "label" : "Lake Broamoor [sic] from Point Sublime on the Cripple Creek Short  Line"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:386/manifest.json",
+    "label" : "Loop Siding, Moffat Road"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:387/manifest.json",
+    "label" : "Nearing Summit, elevation 10,000 ft. on the Cripple Creek Short Line"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:388/manifest.json",
+    "label" : "River view, Cañon of the Big Thompson, Loveland-Estes Park Road"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:389/manifest.json",
+    "label" : "St. Peters Dome on the Cripple Creek Short Line"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:390/manifest.json",
+    "label" : "A coasting party on the Cripple Creek Short Line"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:391/manifest.json",
+    "label" : "Tunnel No. 4, Cripple Creek Short Line"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:392/manifest.json",
+    "label" : "View from Tunnel No. 4 on the Cripple Creek Short Line"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:393/manifest.json",
+    "label" : "Yankee Doodle Lake from Rollins Pass, Moffat Road"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:394/manifest.json",
+    "label" : "Cañon of the Big Thompson, Loveland-Estes Park"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:395/manifest.json",
+    "label" : "Tunnel 33 from Continental Divide, Moffat Road"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:396/manifest.json",
+    "label" : "Idahoe [sic] Springs, Colo."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:397/manifest.json",
+    "label" : "Pike's Peak Ave., Colorado Springs, Colo."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:398/manifest.json",
+    "label" : "Tabor Grand Opera House"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:399/manifest.json",
+    "label" : "Nancy G. M. & T. Co., Wall Street, Colo."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:400/manifest.json",
+    "label" : "86th Regiment, Company L"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:401/manifest.json",
+    "label" : "John W. Haines, III at Pietra Colora, Italy"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:402/manifest.json",
+    "label" : "Shrapnel Alley, Italy"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:403/manifest.json",
+    "label" : "Scene in Italian Farmhouse"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:404/manifest.json",
+    "label" : "Showers behind the front"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:405/manifest.json",
+    "label" : "Troop ship docking in U.S.A."
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:406/manifest.json",
+    "label" : "DUKW crossing Lake Garda"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:407/manifest.json",
+    "label" : "GI shaving in foxhole using helmet as basin"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:408/manifest.json",
+    "label" : "Wounded soldier with medics"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:409/manifest.json",
+    "label" : "Mule encampment, Italy"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:410/manifest.json",
+    "label" : "Nurse with GI in hospital, Italy"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:411/manifest.json",
+    "label" : "POWs head down and GIs up Italian trail"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:412/manifest.json",
+    "label" : "Soldiers eating around a jeep"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:413/manifest.json",
+    "label" : "Throwing grenade into house"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:414/manifest.json",
+    "label" : "Firing of volleys at memorial service, Castelfiorentino"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:415/manifest.json",
+    "label" : "Generals Hays, Duff and Ruffner under tent"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:416/manifest.json",
+    "label" : "Action in the Po Valley"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:417/manifest.json",
+    "label" : "Along Lake Garda"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:418/manifest.json",
+    "label" : "Camp Hale headquarters"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:419/manifest.json",
+    "label" : "Company E, resting on the climb up Sugarloaf Mountain"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://cdm10010.contentdm.oclc.org/iiif/coll16:420/manifest.json",
+    "label" : "Belvedere, troops before a battle"
+  } ],
+  "total" : 107
+}
