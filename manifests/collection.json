@@ -13,5 +13,11 @@
     "@type" : "sc:Manifest",
     "@id" : "https://vmdowney.github.io/iiif2023/manifests/manifest2.json",
     "label" : "Textile Stencil (katagami) with Chrysanthemum Design"
+  }, {
+    "id" : "https://vmdowney.github.io/iiif2023/manifests/iiif_book_manifest.json",
+    "label" : {
+      "en" : [ "Simple Manifest - Book" ]
+    },
+    "type" : "Manifest"
   } ]
 }
